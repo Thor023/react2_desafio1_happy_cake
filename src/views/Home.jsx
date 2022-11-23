@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom"
+// import { Link } from "react-router-dom"
 import IMG from '../img/pastel.png'
 const Home = ()=> {
 return (
